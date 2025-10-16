@@ -1,5 +1,5 @@
 openrouter:
-  api-key: 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
+  api-key: ${OPENROUTER_API_KEY}
   base-url: https://openrouter.ai/api/v1
   default-model: openai/gpt-3.5-turbo
 
