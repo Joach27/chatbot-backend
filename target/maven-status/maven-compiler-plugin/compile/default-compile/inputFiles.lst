@@ -1,0 +1,7 @@
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/controller/ChatController.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/model/Message.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/config/WebConfig.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/service/OpenRouterService.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/dto/ChatRequest.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/service/ChatSessionService.java
+/home/vizz/Projects/chatt/src/main/java/com/example/chatt/ChattApplication.java
