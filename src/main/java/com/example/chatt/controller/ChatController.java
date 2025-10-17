@@ -11,7 +11,7 @@ import java.io.IOException;
 
 @RestController
 @RequestMapping("/api/chat")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://chatbot-frontend-ten-tawny.vercel.app")
 public class ChatController {
 
     private final WebClient webClient;

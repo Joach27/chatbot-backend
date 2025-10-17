@@ -9,7 +9,8 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**") // toutes les routes
-                .allowedOrigins("http://localhost:5173")
+                // .allowedOrigins("http://localhost:5173")
+                .allowedOrigins("https://chatbot-frontend-ten-tawny.vercel.app")
                 .allowedMethods("*")
                 .allowedHeaders("*");
     }
